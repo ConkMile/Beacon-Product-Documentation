@@ -3,10 +3,10 @@
 | 资料类别 | 内容说明 | 查看或下载 |
 | --- | --- | --- |
 | 使用说明 | CP35 设备操作及使用指南 | [查看使用说明](./Instructions%20for%20Use/) |
-| 视频教程 | CP35 设备使用、配置及功能演示 | 暂未提供 |
-| SDK 与开发资料 | SDK 库文件、示例代码及开发文档 | 暂未提供 |
-| 认证与测试文件 | FCC、EU DoC、RoHS、KC 及相关测试报告 | [查看认证与测试文件](#认证与测试文件) |
-| 常见问题 | CP35 使用、配置及开发过程中常见问题 | 暂未提供 |
+| 视频教程 | CP35 设备使用、配置及功能演示 | [Youtobe链接](https://www.youtube.com/@DX-SMART) |
+| SDK 与开发资料 | SDK 库文件、示例代码及开发文档 | [下载链接](https://github.com/ConkMile/dxibeacon-v1.0) |
+| 认证与测试文件 | FCC、EU DoC、RoHS、KC 及相关测试报告 | [查看认证与测试文件](https://github.com/ConkMile/Certificates/tree/main/CP35) |
+| 常见问题 | CP35 使用、配置及开发过程中常见问题 | 本文说明后面会介绍 |
 
 
 
