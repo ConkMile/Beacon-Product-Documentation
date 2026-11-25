@@ -16,11 +16,11 @@
 
 | 认证 / 文件 | 状态 | 查看或下载 |
 | --- | --- | --- |
-| FCC | ☐ | 下载链接 |
-| EU Declaration of Conformity (EU DoC) | ☐ | 下载链接 |
-| RoHS | ☐ | 下载链接 |
-| KC | ☐ | 下载链接 |
-| 测试报告 | ☐ | 下载链接 |
+| FCC | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-FCC-Grant.pdf) |
+| EU Declaration of Conformity (EU DoC) | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-EU-DoC.pdf) |
+| RoHS | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-ROHS.pdf) |
+| KC | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-ROHS.pdf) |
+| 测试报告 | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-SRRC.pdf) |
 
 
 ## 技术支持
