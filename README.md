@@ -2,8 +2,8 @@
 
 | 资料类别 | 内容说明 | 查看或下载 |
 | --- | --- | --- |
-| 使用说明 | CP35 设备操作及 | [查看使用说明](./Instructions%20for%20Use/) |
-| APP使用说明 | APP设备操作及 | [查看使用说明](./Instructions%20for%20Use/) |
+| 使用说明 | CP35 设备操作说明 | [查看使用说明](./Instructions%20for%20Use/) |
+| APP使用说明 | APP设备操作说明 | [查看使用说明](./Instructions%20for%20Use/) |
 | 视频教程 | CP35 设备使用、配置及功能演示 | [Youtobe链接](https://www.youtube.com/@DX-SMART) |
 | 产品选型 | 产品选型说明 | [查看使用说明](./Instructions%20for%20Use/) |
 | SDK 与开发资料 | SDK 库文件、示例代码及开发文档 | [下载链接](https://github.com/ConkMile/dxibeacon-v1.0) |
