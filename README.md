@@ -20,7 +20,10 @@
 | EU Declaration of Conformity (EU DoC) | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-EU-DoC.pdf) |
 | RoHS | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-ROHS.pdf) |
 | KC | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-ROHS.pdf) |
-| 测试报告 | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-SRRC.pdf) |
+| CE-RED | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-RED.pdf) |
+| IP68 | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-CE-IP68-CE.pdf) |
+| 天线测试报告 | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-SRRC.pdf) |
+| 功耗测试报告 | ✔ | [下载链接](https://github.com/ConkMile/Certificates/blob/main/CP35/DX-CP35-SRRC.pdf) |
 
 
 ## 技术支持
